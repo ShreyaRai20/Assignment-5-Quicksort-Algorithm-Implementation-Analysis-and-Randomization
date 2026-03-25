@@ -114,7 +114,7 @@ The assignment demonstrates how algorithm design decisions impact **efficiency a
 
 ## **7. Screenshots**
 
-**[Insert your screenshots here]**
+**[Present in the same repository with respective names]**
 
 - Screenshot 1: Correctness verification (`test_quicksort.py`)
 
