@@ -79,11 +79,11 @@ python3 quicksort.py
 
 ## **Screenshots**
 
-**Add your screenshots in a folder `screenshots/` and link them here:**
+**Added screenshots in the root folder:
 
-- ![Screenshot 1](screenshots/test_quicksort.png) – Correctness verification
-- ![Screenshot 2](screenshots/quicksort_times.png) – Timing results
-- ![Screenshot 3](screenshots/recursion_error.png) – RecursionError on large sorted input
+- ![Screenshot 1 – Correctness verification
+- ![Screenshot 2] – Timing results
+- ![Screenshot 3] – RecursionError on large sorted input
 
 ---
 
