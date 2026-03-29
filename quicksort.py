@@ -179,7 +179,7 @@ def run_experiment(size):
 
 
 # =========================================================
-# MAIN FUNCTION (IMPORTANT - fixes previous feedback)
+# MAIN FUNCTION
 # =========================================================
 
 def main():
